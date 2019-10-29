@@ -1,0 +1,13 @@
+{
+  "name": "Formik FieldArray Checkbox group",
+  "version": "1.0.0",
+  "description": "An example form built with Formik and React",
+  "keywords": ["react", "formik", "forms"],
+  "main": "index.js",
+  "dependencies": {
+    "formik": "0.11.11",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "yup": "0.24.1"
+  }
+}
